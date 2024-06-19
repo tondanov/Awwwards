@@ -15,7 +15,7 @@ const HeaderSection = () => {
   return (
     <div>
       <p className=" font-bold text-[3rem] md:text-[164px] md:pt-8 text-customDark text-center">
-        Awwards
+        Awwwards
       </p>
       <div className="mb-[66px]">
         <Marquee pauseOnHover gradient>
